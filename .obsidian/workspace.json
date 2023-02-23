@@ -85,14 +85,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/Убрать точки с li у ul.md",
+                "file": "base/Генерирование текcт-голос.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eebc8e8e023cd7ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base/Получение данных о местоположении по  ip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b2e9a8b0e0feb72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base/Брянский лес.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -121,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#github",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/Убрать точки с li у ul.md",
+                "file": "base/Брянский лес.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/Убрать точки с li у ul.md",
+                "file": "base/Брянский лес.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/Убрать точки с li у ul.md"
+                "file": "base/Брянский лес.md"
               }
             }
           }
@@ -219,17 +243,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a9f2c8d7ffef893",
+  "active": "0b2e9a8b0e0feb72",
   "lastOpenFiles": [
-    "base/Убрать подчеркивание с a tag.md",
-    "base/Типы разработчиков.md",
-    "base/Создать удаленный репозиторий на Github.md",
-    "base/Git ветки.md",
     "base/Генерирование текcт-голос.md",
+    "base/Брянский лес.md",
     "base/Генерирование изображения.md",
-    "base/Генерирование видео с аватаром.md",
+    "base/Что такое логарифм.md",
+    "base/Алгоритм бинарного поиска.md",
+    "base/Задача про коммивояжера.md",
+    "base/Что такое факториал.md",
+    "base/Создание функции для сохранения медиа файлов в Django.md",
+    "base/Создание абстрактного класса базовой модели в Django.md",
+    "base/Метод для автосоздания  slug' ов в Django.md",
     "base/Заказ отзывов.md",
-    "base/Теория цвета.md",
-    "base/Убрать точки с li у ul.md"
+    "base/Git ветки.md"
   ]
 }
